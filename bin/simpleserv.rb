@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 require 'socket'
 
 server = TCPServer.new 1337

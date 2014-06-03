@@ -1,6 +1,6 @@
 # Simpleserv
 
-TODO: Write a gem description
+This is a gem to launch a simple webserver from your terminal.
 
 ## Installation
 
@@ -18,7 +18,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+From your terminal run the command:
+    $ simpleserv
+
+Then go to localhost 1337 / the file that you wish to view
 
 ## Contributing
 
